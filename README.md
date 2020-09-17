@@ -14,4 +14,4 @@ Moving dlls:
 Changing Source Code:
    -The source code for the dlls are included within this respository.
    -The user can make changes to the source code and overwrite a dll. The new dll must be named to same as the dll it is replacing.
-   -These dlls were compiled using Visual Studios.
+   -These dlls were compiled using Visual Studios.  
